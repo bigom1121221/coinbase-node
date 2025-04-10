@@ -1,0 +1,11 @@
+{
+    "configurations": [
+
+        {
+            "type": "msedge",
+            "name": "http://npm i @coinbase/wallet-sdk",
+            "request": "launch",
+            "url": "http://npm i @coinbase/wallet-sdk"
+        }
+    ]
+}
